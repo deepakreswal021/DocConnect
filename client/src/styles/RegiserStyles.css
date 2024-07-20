@@ -1,0 +1,23 @@
+.log{
+  background-image: url(../../../images/d2.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+}
+.form-container {
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  
+  
+}
+.register-form {
+  /* border: 1px solid gray; */
+  /* border: 1px solid rgb(5, 100, 100); */
+  background-color: rgba(171, 173, 192, 0.37);
+  box-shadow: 0 0 2px #0a3feed5;
+  padding: 30px;
+}
